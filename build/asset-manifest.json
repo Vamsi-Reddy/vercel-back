@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c340ba0.css",
+    "main.js": "/static/js/main.45e8e179.js",
+    "static/js/453.c0777353.chunk.js": "/static/js/453.c0777353.chunk.js",
+    "static/media/AgentEsportsTextLogo.png": "/static/media/AgentEsportsTextLogo.17c1ab7877ff1a068918.png",
+    "static/media/bgff4.jpg": "/static/media/bgff4.11b93502796eeb40bea7.jpg",
+    "static/media/bgff3.jpg": "/static/media/bgff3.1da17f96141119239a82.jpg",
+    "static/media/fotor-ai-20240221122135.jpg": "/static/media/fotor-ai-20240221122135.b43c96b188592fb743c7.jpg",
+    "static/media/fotor-ai-20240217225530.jpg": "/static/media/fotor-ai-20240217225530.76ed13035b791edde6c7.jpg",
+    "static/media/paymentQR.png": "/static/media/paymentQR.fa62c4ca68cb85a2b30d.png",
+    "static/media/fotor-ai-20240222233821.jpg": "/static/media/fotor-ai-20240222233821.9f26037a5b5712504da0.jpg",
+    "static/media/bgff2.jpg": "/static/media/bgff2.9ea77db002210b2c1dcc.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/bgff1.jpg": "/static/media/bgff1.d0d1f09deb04564bc42d.jpg",
+    "static/media/qrpic.png": "/static/media/qrpic.b45687a55b5703da0695.png",
+    "static/media/UPILogo.png": "/static/media/UPILogo.1e3c67e34fc5c0b382ca.png",
+    "index.html": "/index.html",
+    "main.6c340ba0.css.map": "/static/css/main.6c340ba0.css.map",
+    "main.45e8e179.js.map": "/static/js/main.45e8e179.js.map",
+    "453.c0777353.chunk.js.map": "/static/js/453.c0777353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c340ba0.css",
+    "static/js/main.45e8e179.js"
+  ]
+}
